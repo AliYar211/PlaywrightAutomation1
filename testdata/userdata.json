@@ -1,0 +1,23 @@
+{
+  "BASE_URL": "https://api-testing-postman.vercel.app/api/v1",
+
+  "TEST_USER": {
+    "fullname": "AliYar",
+    "username": "AliYar2026",
+    "email": "AliYar2026@test.com",
+    "password": "AliYar11"
+  },
+
+  "REGISTER_USER": {
+    "fullname": "AliYar",
+    "password": "AliYar11"
+  },
+
+  "PUT_USER": {
+    "fullname": "AliYar UPDATED"
+  },
+
+  "PATCH_USER": {
+    "fullname": "AliYar UPDATED AGAIN"
+  }
+}

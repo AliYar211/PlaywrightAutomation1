@@ -1,0 +1,49 @@
+{
+
+    "validUsers":
+    [
+        {
+            "username":"standard_user",
+            "password": "secret_sauce",
+            "message":"Products"
+        },
+         {
+            "username":"visual_user",
+            "password": "secret_sauce",
+            "message":"Products"
+        },
+         {
+            "username":"problem_user",
+            "password": "secret_sauce",
+            "message":"Products"
+        }
+    ],
+
+     "invalidUsers":
+     [
+        {
+            
+            "username":"stanrd_user",
+            "password": "secrt_sauce",
+            "message":"Epic sadface: Username and password do not match any user in this service"
+        },
+         {
+            "username":"locked_o_user",
+            "password": "secret_sauce",
+            "message":"Epic sadface: Username and password do not match any user in this service"
+        },
+         {
+            "username":"probleuser",
+            "password": "secre_sauce",
+            "message":"Epic sadface: Username and password do not match any user in this service"
+        }
+
+        
+     ]
+
+   
+
+
+}
+
+
